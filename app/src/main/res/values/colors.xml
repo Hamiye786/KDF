@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6148</color>
+    <color name="colorPrimaryDark">#ff6148</color>
+    <color name="colorAccent">#FB8C00</color>
+    <color name="light_gray">#FFCC80</color>
+    <color name="dark_purple">#600837</color>
+    <color name="colorGray">#fff</color>
+    <color name="red">#fd1717</color>
+    <color name="colorText">#3d3d3d</color>
+    <color name="card_view">#FB8C00</color>
+    <color name="colorBackground_black">#000025</color>
+
+    <color name="windowBackground_light">#e2dede</color>
+    <color name="windowBackground_dark">#669999</color>
+
+    <color name="dot_inactive">#f5a86e</color>
+    <color name="colorMycardView">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <array name="array_dot_active">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_inactive</item>
+        <item>@color/dot_inactive</item>
+        <item>@color/dot_inactive</item>
+        <item>@color/dot_inactive</item>
+    </array>
+</resources>
