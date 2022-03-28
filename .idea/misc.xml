@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/drawable/bag.xml" value="0.1" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/drawable/holder.xml" value="0.1435" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/drawable/rb.xml" value="0.1435" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_catergories.xml" value="0.1984375" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_check_out.xml" value="0.2125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_individual_item.xml" value="0.2125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_specific_category.xml" value="0.2125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_splash.xml" value="0.1921875" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/activity_welcome.xml" value="0.13055555555555556" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/all_categories_layout.xml" value="0.2125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/fragment_deals.xml" value="0.1921875" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/fragment_profile.xml" value="0.1921875" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/intro1.xml" value="0.178125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/intro2.xml" value="0.178125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/intro3.xml" value="0.178125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/intro4.xml" value="0.178125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/popular_items.xml" value="0.1921875" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/layout/specific_category_layout.xml" value="0.2125" />
+        <entry key="..\:/Android/Sarhad University Projects/KDF 2/User/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
